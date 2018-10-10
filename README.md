@@ -1,7 +1,7 @@
 # HackerRankNumpy
 Code samples for Hacker Rank Python Numpy Challenges
 
-Topics Covered: #a=numpy.array([1,2,3])
+Topics that are Covered :-
 
 numpy.array()
 
